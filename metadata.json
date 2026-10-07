@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Comprehensive global financial markets dashboard tracking stocks, crypto, forex, indices, futures, and bonds with live quotes, interactive charts, screeners, heatmaps, and economic calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
